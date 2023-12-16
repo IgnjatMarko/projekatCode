@@ -1,1 +1,1 @@
-# projekatCode
+# Dinamički sadržaj && Filtriranje && Sortiranje
